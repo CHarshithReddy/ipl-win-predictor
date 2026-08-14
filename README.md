@@ -3,7 +3,7 @@
 A ball-by-ball win probability predictor for IPL matches using Machine Learning.
 
 ## Live Demo
-[Coming soon - Streamlit deployment]
+https://ipl-win-predit.streamlit.app/
 
 ## What it does
 Predicts win probability for every ball in an IPL 2nd innings chase
